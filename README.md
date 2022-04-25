@@ -60,6 +60,6 @@ Linux                    21 hrs 29 mins      ███████████�
 
 ### 📶 Most Used Languages on GitHub
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nix6839&layout=compact&hide_title=true&hide_border=true&bg_color=00000000&text_color=878787&exclude_repo=dotfiles,my-fonts)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nix6839&layout=compact&hide_title=true&hide_border=true&bg_color=00000000&text_color=878787&exclude_repo=dotfiles,my-fonts,algorithm-solving)
 
 </details>

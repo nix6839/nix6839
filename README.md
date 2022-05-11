@@ -18,11 +18,13 @@
 
 [![Next.js](https://img.shields.io/badge/Next.js-3b3b3b?style=for-the-badge&logo=Next.js&logoColor=fff)](https://nextjs.org/)
 [![styled-components](https://img.shields.io/badge/styled--components-3b3b3b?style=for-the-badge&logo=styled-components&logoColor=db7093)](https://styled-components.com/)
-[![Redux](https://img.shields.io/badge/Redux-3b3b3b?style=for-the-badge&logo=Redux&logoColor=764abc)](https://redux.js.org/)
+[![emotion](https://img.shields.io/badge/Emotion-3b3b3b?style=for-the-badge)](https://emotion.sh/)
 
+[![Redux](https://img.shields.io/badge/Redux-3b3b3b?style=for-the-badge&logo=Redux&logoColor=764abc)](https://redux.js.org/)
 [![NestJS](https://img.shields.io/badge/NestJS-3b3b3b?style=for-the-badge&logo=NestJS&logoColor=e0234e)](https://nestjs.com/)
 [![Express](https://img.shields.io/badge/Express-3b3b3b?style=for-the-badge&logo=Express&logoColor=fff)](https://expressjs.com/)
 [![TypeORM](https://img.shields.io/badge/TypeORM-3b3b3b?style=for-the-badge)](https://typeorm.io/)
+
 ![C](https://img.shields.io/badge/C-3b3b3b?style=for-the-badge&logo=C&logoColor=a8b9cc)
 
 ### 😭 Can Use Them, but...
